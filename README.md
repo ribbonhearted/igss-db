@@ -33,7 +33,5 @@ The goal is to monitor waste distribution, understand bin usage, and demonstrate
 **4.Analytics Queries**
 * Most common waste type
 * Bin usage statistics
-
-Average AI confidence per type
-
-Trends over time
+* Average AI confidence per type
+* Trends over time
