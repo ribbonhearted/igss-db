@@ -1,6 +1,6 @@
 # igss-db
 
-##Project Idea
+## Project Idea
 
 **Title:**
 Intelligent garbage sorting system
